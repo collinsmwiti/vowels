@@ -1,6 +1,11 @@
+/*Styling the body*/
+
 body {
   background-color: blue;
 }
+
+
+/*Styling the wrapper, header and project contents to beautify the appearance of the project*/
 
 .form-wrapper {
   width: 550px;
